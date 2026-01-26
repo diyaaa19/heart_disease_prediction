@@ -71,7 +71,7 @@ UCI Health Dataset Kaggle
 
 ## Results
 ### Model                                            Accuracy
-+ Decision Tree : 96%
++ Decision Tree : 95%
 + Random Forest : 96%
-+ SVC : 93%
++ SVC : 88%
 + KNN : 95%
